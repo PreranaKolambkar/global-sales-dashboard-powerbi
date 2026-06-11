@@ -1,77 +1,74 @@
 # Global Sales Dashboard | Power BI
 
 ## Project Overview
+
 This project presents an interactive Power BI dashboard built using global retail sales data.
 
-The dashboard analyzes:
-- Sales performance
-- Customer segments
-- Product categories
-- Regional insights
-- Monthly sales trends
+The dashboard visualizes:
 
-The objective is to generate meaningful business insights through data visualization and analytics.
+* Sales performance
+* Customer segments
+* Product categories
+* Regional trends
+* Monthly sales trends
+
+The objective of the project is to present business data through interactive dashboards and visual reporting.
 
 ---
 
 ## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Excel
+
+* Power BI
+* Excel
 
 ---
 
 ## Dataset Features
+
 The dataset includes:
-- Sales
-- Profit
-- Quantity
-- Customer Details
-- Product Categories
-- Regional Information
-- Order Status
-- Shipping Modes
-- Manager Performance
 
-### Key Fields
-- Order_ID
-- Sales
-- Profit
-- Segment
-- Region
-- Category
-- Product_Name
+* Sales
+* Profit
+* Quantity
+* Customer Details
+* Product Categories
+* Regional Information
+* Order Status
+* Shipping Modes
 
----
+Key fields:
 
-##  Dashboard Features
-- Sales by Category Analysis
-- Customer Segment Analysis
-- Monthly Sales Trend
-- Interactive Filters & Slicers
-- KPI Reporting
-- Regional Insights
+* Order_ID
+* Sales
+* Profit
+* Segment
+* Region
+* Category
+* Product_Name
 
 ---
 
-## Key Insights
-- Consumer segment generated the highest sales contribution
-- Furniture category showed strong sales performance
-- Monthly sales trends revealed seasonal fluctuations
-- Regional segmentation improved business understanding
+## Dashboard Features
+
+* Sales by Category Analysis
+* Customer Segment Analysis
+* Monthly Sales Trend
+* Interactive Filters & Slicers
+* KPI Indicators
+* Regional Analysis
 
 ---
 
-## Business Impact
-This dashboard helps businesses:
-- Monitor sales performance
-- Identify profitable segments
-- Analyze customer behavior
-- Track regional growth trends
-- Improve decision-making using visual analytics
+## Insights Visualized
+
+* Category-wise sales distribution
+* Customer segment comparison
+* Monthly sales performance trends
+* Regional sales patterns
 
 ---
+
+
 
 ## Dashboard Preview
 
