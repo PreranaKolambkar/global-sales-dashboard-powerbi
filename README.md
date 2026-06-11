@@ -1,6 +1,6 @@
 # Global Sales Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive Power BI dashboard built using global retail sales data.
 
 The dashboard analyzes:
@@ -14,7 +14,7 @@ The objective is to generate meaningful business insights through data visualiza
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Power Query
 - DAX
@@ -22,7 +22,7 @@ The objective is to generate meaningful business insights through data visualiza
 
 ---
 
-## 📂 Dataset Features
+## Dataset Features
 The dataset includes:
 - Sales
 - Profit
@@ -34,7 +34,7 @@ The dataset includes:
 - Shipping Modes
 - Manager Performance
 
-Key fields:
+### Key Fields
 - Order_ID
 - Sales
 - Profit
@@ -45,7 +45,7 @@ Key fields:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - Sales by Category Analysis
 - Customer Segment Analysis
 - Monthly Sales Trend
@@ -55,23 +55,24 @@ Key fields:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Consumer segment generated the highest sales contribution
 - Furniture category showed strong sales performance
 - Monthly sales trends revealed seasonal fluctuations
 - Regional segmentation improved business understanding
 
-
 ---
 
-
-## 🚀 Business Impact
+## Business Impact
 This dashboard helps businesses:
 - Monitor sales performance
 - Identify profitable segments
 - Analyze customer behavior
 - Track regional growth trends
 - Improve decision-making using visual analytics
+
+---
+
 ## Dashboard Preview
 
 ![Dashboard](Dashboard_Screenshot_PowerBi.png)
