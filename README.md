@@ -1,5 +1,5 @@
-## Global Sales Dashboard | Power BI
-# Project Overview
+# Global Sales Dashboard | Power BI
+## Project Overview
 
 This project presents an interactive Power BI dashboard built using global retail sales data. The dashboard analyzes sales performance, customer segments, product categories, and monthly trends to generate business insights.
 
