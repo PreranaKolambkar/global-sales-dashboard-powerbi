@@ -39,4 +39,4 @@ Regional segmentation improved business understanding
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshot_PowerBi.png)
